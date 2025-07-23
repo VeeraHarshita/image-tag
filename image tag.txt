@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset ="UTF-8">
+<meta name="viewport"content="width=device_width intial-scal=1.0"/>
+<title>img tag </title>
+</head>
+<body>
+<img src ="C:\Users\harsh\Downloads\images.jpg" alt="varun" height="300"/>
+<img src ="C:\Users\harsh\Downloads\images.jpg" alt="Mahesh babu" height="300"/>
+<img src ="C:\Users\harsh\Downloads\images.jpg" alt="pavan kalyan" height="300"/>
+<img src ="C:\Users\harsh\Downloads\images.jpg" alt="thalava" height="300"/>
+<img src ="C:\Users\harsh\Downloads\images.jpg" alt="ram charn" height="300"/>
+<img src ="C:\Users\harsh\Downloads\images.jpg" alt="nani" height="300"/>
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&npsb;&nbsp;&nbsp
+<br/>
+<a href=""C:\Users\harsh\Downloads\images.jpg" target="_blank" download="varun">Download</a>
+<a href ="C:\Users\harsh\Downloads\images.jpg" target="_blank" download="mahesh babu">Download</a>
+<a href ="C:\Users\harsh\Downloads\images.jpg" target="_blank" download="pavan kalyan">Download</a>
+<a href ="C:\Users\harsh\Downloads\images.jpg" target="_blank" download="thalava">Download</a>
+<a href ="C:\Users\harsh\Downloads\images.jpg" target="_blank" download="ram charan">Download</a>
+<a href ="C:\Users\harsh\Downloads\images.jpg" target="_blank" download="nani">Download</a>
+<br/>
+<audio controls muted>
+<source src="C:\Users\harsh\Downloads
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
